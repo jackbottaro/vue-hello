@@ -11,6 +11,7 @@ const app = new Vue(
     {
         el: '#root',
         data : {
-            title: 'Questo titolo proviene da VUEJS',
+            title: 'Questo titolo proviene da VUEJS'
+        }
     }
 )
